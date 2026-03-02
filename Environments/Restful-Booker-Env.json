@@ -1,0 +1,34 @@
+{
+  "name": "New Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://restful-booker.herokuapp.com",
+      "enabled": true
+    },
+
+     {
+      "key": "token",
+      "value": "",
+      "enabled": true
+    }
+    ,
+    {
+      "key": "bookingId",
+      "value": "",
+      "enabled": true
+    }
+    ,
+    {
+      "key": "adminUser",
+      "value": "admin",
+      "enabled": true
+    }
+    ,
+    {
+      "key": "adminPass",
+      "value": "password123",
+      "enabled": true
+    }
+  ]
+}
